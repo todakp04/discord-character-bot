@@ -1,0 +1,1 @@
+# discord-character-bot2
